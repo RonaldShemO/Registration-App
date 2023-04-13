@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Obaigo</string>
+    <string name="name_hint">Enter name</string>
+    <string name="email_hint"></string>
+    <string name="phone_number"></string>
+    <string name="app_pass"></string>
+</resources>
